@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a small application intended to be deployed on http://www.cloudfoundry.com and gives access to the underlying database using a mini grails application embedding the dbconsole plugin.
+This is a small Grails application intended to be deployed on http://www.cloudfoundry.com and gives access to the underlying database using a mini grails application embedding the [dbconsole plugin](http://www.grails.org/plugin/dbconsole).
 The original idea for this was brought up by Burt Beckwith in a reply on grail-user mailinglist, see http://grails.1312388.n4.nabble.com/cloudfoundry-deployment-trouble-caused-by-database-migrations-plugin-td3460656.html#a3461668
 
 ## Usage
