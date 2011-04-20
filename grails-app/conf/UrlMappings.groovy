@@ -7,7 +7,8 @@ class UrlMappings {
 			}
 		}
 
-		"/"(view:"/index")
+		//"/"(view:"/index")
+		"/"(uri:"/dbconsole")
 		"500"(view:'/error')
 	}
 }
